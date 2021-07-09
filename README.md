@@ -4,7 +4,7 @@
 This is a full-stack MERN application intended to be built using docker and docker-compose.
 
 ## Requirements
-Make sure your enviroment is equiped with [Node.js](https://nodejs.org/en/) as well as [Docker](https://docs.docker.com/) and Docker-Compose. 
+Make sure your enviroment is equiped with [Node.js](https://nodejs.org/en/), [MongoDB](https://www.mongodb.com/) as well as [Docker](https://docs.docker.com/) and Docker-Compose. 
 
 ## Build
 Everything set with the requirements? Run the following code on your terminal to build a docker image:
